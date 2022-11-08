@@ -1,4 +1,0 @@
-driver: mysql
-pass: drowssap
-timeout: 10
-user: mysql_user
